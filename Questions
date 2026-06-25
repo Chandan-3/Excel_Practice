@@ -1,0 +1,5 @@
+Create a pivot: Region rows, Category columns, Sum of Net Sales values.
+Create a bar chart showing total Net Sales by Region.
+Find top 10 products by Net Sales.
+Calculate profit margin and highlight rows below 10%.
+Compare regional Net Sales against Region_Targets.
